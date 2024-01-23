@@ -1,1 +1,3 @@
-# Prem
+-> git clone https://github.com/LUXINE19/Prem
+-> cd Prem
+-> python prem.py
